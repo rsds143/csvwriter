@@ -1,4 +1,4 @@
-module github.com/rsds143/csvwriter
+module github.com/foundev/csvwriter
 
 go 1.17
 
